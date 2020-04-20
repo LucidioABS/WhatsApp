@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344606180196-3nfuadse5mcca478pf3n1o96dnh5a2dd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344606180196-3nfuadse5mcca478pf3n1o96dnh5a2dd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKV-lu-Xxj89vOEuH5vp4j--gLafYwBjQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344606180196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Academy.WhatsApp</string>
+	<key>PROJECT_ID</key>
+	<string>whatsapp-5beb2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatsapp-5beb2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344606180196:ios:a6debeb42154904544f071</string>
+	<key>DATABASE_URL</key>
+	<string>https://whatsapp-5beb2.firebaseio.com</string>
+</dict>
+</plist>
